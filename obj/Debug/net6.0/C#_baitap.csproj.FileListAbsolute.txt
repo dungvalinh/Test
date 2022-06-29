@@ -1,0 +1,15 @@
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\bin\Debug\net6.0\C#_baitap.exe
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\bin\Debug\net6.0\C#_baitap.deps.json
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\bin\Debug\net6.0\C#_baitap.runtimeconfig.json
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\bin\Debug\net6.0\C#_baitap.dll
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.csproj.AssemblyReference.cache
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.AssemblyInfoInputs.cache
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.AssemblyInfo.cs
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.dll
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\refint\C#_baitap.dll
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.pdb
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\C#_baitap.genruntimeconfig.cache
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\bin\Debug\net6.0\C#_baitap.pdb
+C:\Users\LAPTOPSONTAY.COM\Desktop\C#_baitap\obj\Debug\net6.0\ref\C#_baitap.dll
